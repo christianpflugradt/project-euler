@@ -1,7 +1,7 @@
 function solve()
 	aggregation = 0
 	for number in 3:999
-		if (number % 3 == 0 || number % 5 == 0)
+		if number % 3 == 0 || number % 5 == 0
 			println(number)
 			aggregation += number
 		end

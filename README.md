@@ -4,7 +4,7 @@ These are my solutions for the first 100 problems of [project euler](https://pro
 
 Please note that project euler states it is okay to share solutions for the first 100 problems, but it's not okay to share solutions for the later problems posted there.
 
-I don't have a mathematical background. All algorithms in this repository are my own, using only standard libraries. Next to each algorithm I'll post the time it took to complete on my server. This time is not reproducible and only gives an indication how efficient or inefficient my algorithm is.
+I don't have a mathematical background. All algorithms in this repository are my own, using only standard libraries. Next to each algorithm I'll post the time it took to complete on my server (which is not very potent but suitable for long running tasks)). This time is not reproducible and only gives an indication how efficient or inefficient my algorithm is.
 
 The following statement is taken from the project euler FAQ, 5th of January 2023:
 
@@ -21,4 +21,5 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #001 | [Multiples of 3 or 5](001.jl) | < 0ms |
 | #002 | [Even Fibonacci numbers](002.jl) | < 0ms |
 | #003 | [Largest prime factor](003.jl) | 153ms |
+| #004 | [Largest palindrome product](004.jl) | 115ms |
 
