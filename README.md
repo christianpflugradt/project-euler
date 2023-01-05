@@ -1,4 +1,4 @@
-# advent-of-code
+# project euler (first 100 problems)
 
 These are my solutions for the first 100 problems of [project euler](https://projecteuler.net) using [Julia](https://julialang.org/).
 
