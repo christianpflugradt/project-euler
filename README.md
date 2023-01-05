@@ -18,5 +18,6 @@ I don't have a mathematical background. All algorithms in this repository are my
 
 | Problem | Solution | Completion Time |
 | --- | --- | --- |
-| #001 | [Multiples of 3 or 5](001.jl) | 0s |
+| #001 | [Multiples of 3 or 5](001.jl) | < 0ms |
+| #002 | [Even Fibonacci numbers](002.jl) | < 0ms |
 
