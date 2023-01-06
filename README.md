@@ -27,5 +27,6 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #007 | [10001st prime](007.jl) | 43ms |
 | #008 | [Largest product in a series](008.jl) | 30ms |
 | #009 | [Special Pythagorean triplet](009.jl) | < 0ms |
-| #010 | [Summation of primes](010.jl) | 0.5s |
+| #010 | [Summation of primes](010.jl) | 1.3s |
+| #011 | [Largest product in a grid](011.jl) | 56ms |
 
