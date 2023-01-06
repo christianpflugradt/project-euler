@@ -1,7 +1,13 @@
 function is_prime(num)
-	for i in 2:ceil(Int, sqrt(num))
-		if num % i == 0
-			return false
+	if num < 2
+		return false
+	elseif num == 2
+		return true
+	else
+		for i in 2:ceil(Int, sqrt(num))
+			if num % i == 0
+				return false
+			end
 		end
 	end
 	return true
@@ -26,15 +32,15 @@ function divisible_by_2to20(num)
 end
 
 function solve()
-	number = 1
-	for i in 2:20
+	number = 2
+	for i in 3:20
 		if is_prime(i)
 			number *= i
 		end
 	end
-	str = chop(string(number))
-	str = "$(str)0"
-	number = parse(Int, str)
+	if number % 20 != 0
+		number += 10
+	end
 	while true
 		if last(string(number)) == '0'
 			if digit_sum(number) % 3 == 0
@@ -43,7 +49,7 @@ function solve()
 				end
 			end
 		end
-		number += 10
+		number += 20
 	end
 end
 

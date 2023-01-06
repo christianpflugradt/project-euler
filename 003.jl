@@ -1,7 +1,13 @@
 function is_prime(num)
-	for i in 2:ceil(Int, sqrt(num))
-		if num % i == 0
-			return false
+	if num < 2
+		return false
+	elseif num == 2
+		return true
+	else
+		for i in 2:ceil(Int, sqrt(num))
+			if num % i == 0
+				return false
+			end
 		end
 	end
 	return true
@@ -17,7 +23,7 @@ function digit_sum(num)
 end
 
 function solve()
-	number = 600851475143
+	number = 600_851_475_143
 	max_prime = 1
 	for i in range(ceil(Int, sqrt(number)), step=-1, stop=3)
 		if last(string(i)) in ['1', '3', '7', '9']
