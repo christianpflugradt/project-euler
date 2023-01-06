@@ -1,29 +1,8 @@
-function is_prime(num)
-	if num < 2
-		return false
-	elseif num == 2
-		return true
-	else
-		for i in 2:ceil(Int, sqrt(num))
-			if num % i == 0
-				return false
-			end
-		end
-	end
-	return true
-end
+include("./common.jl")
 
-function digit_sum(num)
-	str = string(num)
-	result = 0
-	for c in str
-		result += parse(Int, c)
-	end
-	return result
-end
+high_number = 600_851_475_143
 
-function solve()
-	number = 600_851_475_143
+function solve(number)
 	max_prime = 1
 	for i in range(ceil(Int, sqrt(number)), step=-1, stop=3)
 		if last(string(i)) in ['1', '3', '7', '9']
@@ -36,4 +15,4 @@ function solve()
 	end
 end
 
-println(@time solve())
+println(@time solve(high_number))
