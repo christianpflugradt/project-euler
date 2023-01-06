@@ -26,4 +26,5 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #006 | [Sum square difference](006.jl) | < 0ms |
 | #007 | [10001st prime](007.jl) | 43ms |
 | #008 | [Largest product in a series](008.jl) | 33ms |
+| #009 | [Special Pythagorean triplet](009.jl) | < 0ms |
 
