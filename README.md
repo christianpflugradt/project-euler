@@ -23,6 +23,7 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #003 | [Largest prime factor](003.jl) | 153ms |
 | #004 | [Largest palindrome product](004.jl) | 115ms |
 | #005 | [Smallest multiple](005.jl) | 2.6s |
-| #006 | [Sum square difference](006.jl) | 0s |
+| #006 | [Sum square difference](006.jl) | < 0ms |
 | #007 | [10001st prime](007.jl) | 43ms |
+| #008 | [Largest product in a series](008.jl) | 33ms |
 
