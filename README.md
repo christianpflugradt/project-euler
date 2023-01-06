@@ -20,11 +20,12 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | --- | --- | --- |
 | #001 | [Multiples of 3 or 5](001.jl) | < 0ms |
 | #002 | [Even Fibonacci numbers](002.jl) | < 0ms |
-| #003 | [Largest prime factor](003.jl) | 153ms |
-| #004 | [Largest palindrome product](004.jl) | 115ms |
-| #005 | [Smallest multiple](005.jl) | 2.6s |
+| #003 | [Largest prime factor](003.jl) | 0.2s |
+| #004 | [Largest palindrome product](004.jl) | 0.1s |
+| #005 | [Smallest multiple](005.jl) | 2.5s |
 | #006 | [Sum square difference](006.jl) | < 0ms |
 | #007 | [10001st prime](007.jl) | 43ms |
-| #008 | [Largest product in a series](008.jl) | 33ms |
+| #008 | [Largest product in a series](008.jl) | 30ms |
 | #009 | [Special Pythagorean triplet](009.jl) | < 0ms |
+| #010 | [Summation of primes](010.jl) | 0.5s |
 
