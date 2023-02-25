@@ -31,4 +31,5 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #011 | [Largest product in a grid](011.jl) | 56ms |
 | #012 | [Highly divisible triangular number](012.jl) | 36s |
 | #013 | [Large sum](013.jl) | 53ms |
+| #014 | [Longest Collatz sequence](014.jl) | 4.4s |
 
