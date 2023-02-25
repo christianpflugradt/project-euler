@@ -22,3 +22,19 @@ function digit_sum(num::Int)::Int
 	return result
 end
 
+permutations(list; duplicates=true) = duplicates ? _permutations(list) : unique(_permutations(list))
+
+function _permutations(list)
+	if length(list) == 1
+		return list
+	end
+	perms = []
+	for value in list
+		reduced = copy(list)
+		deleteat!(reduced, findfirst(x -> x == value, reduced))
+		for perm in _permutations(reduced)
+			push!(perms, vcat([value], perm))
+		end
+	end
+	return perms
+end

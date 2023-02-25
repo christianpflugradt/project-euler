@@ -29,4 +29,5 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #009 | [Special Pythagorean triplet](009.jl) | < 0ms |
 | #010 | [Summation of primes](010.jl) | 1.3s |
 | #011 | [Largest product in a grid](011.jl) | 56ms |
+| #012 | [Highly divisible triangular number](012.jl) | 36s |
 
