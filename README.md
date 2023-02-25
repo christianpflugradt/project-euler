@@ -38,4 +38,5 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #018 | [Maximum path sum I](018.jl) | 0.2s |
 | #019 | [Counting Sundays](019.jl) | 0.2s |
 | #020 | [Factorial digit sum](020.jl) | < 0ms |
+| #021 | [Amicable numbers](021.jl) | 64ms |
 
