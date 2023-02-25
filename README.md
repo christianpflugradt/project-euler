@@ -34,4 +34,5 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #014 | [Longest Collatz sequence](014.jl) | 4.4s |
 | #015 | [Lattice paths](015.jl) | 0.1s |
 | #016 | [Power digit sum](016.jl) | < 0ms |
+| #017 | [Number letter counts](017.jl) | < 0ms |
 
