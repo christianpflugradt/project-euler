@@ -47,4 +47,5 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #027 | [Quadratic primes](solutions-julia/027.jl) | n/a | 0.1s |
 | #028 | [Number spiral diagonals](solutions-julia/028.jl) | n/a | 7ms |
 | #029 | [Distinct powers](solutions-julia/029.jl) | n/a | 1ms |
+| #030 | [Digit fifth power](solutions-julia/030.jl) | n/a | 70ms |
 
