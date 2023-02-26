@@ -52,4 +52,5 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #032 | [Pandigital products](solutions-julia/032.jl) | n/a | 0.4s |
 | #033 | [Digit cancelling fractions](solutions-julia/033.jl) | n/a | < 0ms |
 | #034 | [Digit factorials](solutions-julia/034.jl) | n/a | 0.3s |
+| #035 | [Circular primes](solutions-julia/035.jl) | n/a | 0.4s |
 
