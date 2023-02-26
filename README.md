@@ -54,4 +54,5 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #034 | [Digit factorials](solutions-julia/034.jl) | n/a | 0.3s |
 | #035 | [Circular primes](solutions-julia/035.jl) | n/a | 0.4s |
 | #036 | [Double-base palindromes](solutions-julia/036.jl) | n/a | 0.1s |
+| #037 | [Truncatable primes](solutions-julia/037.jl) | n/a | 0.2s |
 
