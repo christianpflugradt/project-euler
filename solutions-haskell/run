@@ -1,0 +1,4 @@
+case $1 in
+	''|*[!0-9]*) echo "pass a problem number (001 to 100)" ;;
+	*) ghc "$1.hs"; ./$1; rm $1; rm *.hi; rm *.o ;;
+esac
