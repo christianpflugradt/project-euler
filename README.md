@@ -1,6 +1,6 @@
 # project euler (first 100 problems)
 
-These are my solutions for the first 100 problems of [project euler](https://projecteuler.net) using [Julia](https://julialang.org/).
+These are my solutions for the first 100 problems of [project euler](https://projecteuler.net) using [Julia](https://julialang.org/) and [Haskell](https://www.haskell.org/).
 
 Please note that project euler states it is okay to share solutions for the first 100 problems, but it's not okay to share solutions for the later problems posted there.
 
@@ -51,4 +51,5 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #031 | [Coin sums](solutions-julia/031.jl) | n/a | 0.6s |
 | #032 | [Pandigital products](solutions-julia/032.jl) | n/a | 0.4s |
 | #033 | [Digit cancelling fractions](solutions-julia/033.jl) | n/a | < 0ms |
+| #034 | [Digit factorials](solutions-julia/034.jl) | n/a | 0.3s |
 
