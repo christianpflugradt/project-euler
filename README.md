@@ -43,4 +43,5 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #023 | [Non-abundant sums](023.jl) | 0.3s |
 | #024 | [Lexicographic permutations](024.jl) | 24s |
 | #025 | [1000-digit Fibonacci number](025.jl) | 37s |
+| #026 | [Reciprocal cycles](026.jl) | 0.6s |
 
