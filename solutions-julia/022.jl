@@ -1,4 +1,4 @@
-file = open("022.txt", "r")
+file = open("../resources/022.txt", "r")
 input = read(file, String)
 close(file)
 
