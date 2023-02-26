@@ -46,4 +46,5 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #026 | [Reciprocal cycles](026.jl) | 0.6s |
 | #027 | [Quadratic primes](027.jl) | 0.1s |
 | #028 | [Number spiral diagonals](028.jl) | 7ms |
+| #029 | [Distinct powers](029.jl) | 1ms |
 
