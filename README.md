@@ -44,4 +44,5 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #024 | [Lexicographic permutations](024.jl) | 24s |
 | #025 | [1000-digit Fibonacci number](025.jl) | 37s |
 | #026 | [Reciprocal cycles](026.jl) | 0.6s |
+| #027 | [Quadratic primes](027.jl) | 0.1s |
 
