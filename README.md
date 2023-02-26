@@ -40,4 +40,5 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #020 | [Factorial digit sum](020.jl) | < 0ms |
 | #021 | [Amicable numbers](021.jl) | 64ms |
 | #022 | [Names scores](022.jl) | 33ms |
+| #023 | [Non-abundant sums](023.jl) | 33ms |
 
