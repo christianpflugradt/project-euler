@@ -49,4 +49,5 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #029 | [Distinct powers](solutions-julia/029.jl) | n/a | 1ms |
 | #030 | [Digit fifth power](solutions-julia/030.jl) | n/a | 70ms |
 | #031 | [Coin sums](solutions-julia/031.jl) | n/a | 0.6s |
+| #032 | [Pandigital products](solutions-julia/032.jl) | n/a | 0.4s |
 
