@@ -1,3 +1,5 @@
+is_palindrome(str) = str == reverse(str)
+
 function is_prime(num::Int)::Bool
 	if num < 2
 		return false

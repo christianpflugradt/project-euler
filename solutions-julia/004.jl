@@ -1,4 +1,4 @@
-is_palindrome(str) = str == reverse(str)
+include("./common.jl")
 
 function solve()
 	palindrome = 0
