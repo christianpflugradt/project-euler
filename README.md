@@ -56,4 +56,5 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #036 | [Double-base palindromes](solutions-julia/036.jl) | n/a | 0.1s |
 | #037 | [Truncatable primes](solutions-julia/037.jl) | n/a | 0.2s |
 | #038 | [Pandigital multiples](solutions-julia/038.jl) | n/a | < 0ms |
+| #039 | [Integer right triangles](solutions-julia/039.jl) | n/a | 0.3s |
 
