@@ -62,4 +62,5 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #042 | [Coded triangle numbers](solutions-julia/042.jl) | n/a | 43ms |
 | #043 | [Sub-string divisibility](solutions-julia/043.jl) | n/a | 27s |
 | #044 | [Pentagon numbers](solutions-julia/044.jl) | n/a | 2.4s |
+| #045 | [Triangular, pentagonal, and hexagonal](solutions-julia/045.jl) | n/a | 11ms |
 
