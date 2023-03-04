@@ -65,5 +65,6 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #045 | [Triangular, pentagonal, and hexagonal](solutions-julia/045.jl) | n/a | 11ms |
 | #046 | [Goldbach's other conjecture](solutions-julia/046.jl) | n/a | < 1ms |
 | #047 | [Distinct primes factors](solutions-julia/047.jl) | n/a | 72s |
-| #048 | [Prime permutations](solutions-julia/048.jl) | n/a | < 1ms |
+| #048 | [Self powers](solutions-julia/048.jl) | n/a | < 1ms |
+| #049 | [Prime permutations](solutions-julia/049.jl) | n/a | 0.5s |
 
