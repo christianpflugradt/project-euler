@@ -18,26 +18,26 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 
 | Problem | Imperative Solution | Declarative Solution | Completion Time |
 | --- | --- | --- | --- |
-| #001 | [Multiples of 3 or 5](solutions-julia/001.jl) | [---](solutions-haskell/001.hs) | < 0ms |
-| #002 | [Even Fibonacci numbers](solutions-julia/002.jl) | [---](solutions-haskell/002.hs) | < 0ms |
+| #001 | [Multiples of 3 or 5](solutions-julia/001.jl) | [---](solutions-haskell/001.hs) | < 1ms |
+| #002 | [Even Fibonacci numbers](solutions-julia/002.jl) | [---](solutions-haskell/002.hs) | < 1ms |
 | #003 | [Largest prime factor](solutions-julia/003.jl) | n/a | 0.2s |
 | #004 | [Largest palindrome product](solutions-julia/004.jl) | n/a | 0.1s |
 | #005 | [Smallest multiple](solutions-julia/005.jl) | n/a | 2.5s |
-| #006 | [Sum square difference](solutions-julia/006.jl) | n/a | < 0ms |
+| #006 | [Sum square difference](solutions-julia/006.jl) | n/a | < 1ms |
 | #007 | [10001st prime](solutions-julia/007.jl) | n/a | 43ms |
 | #008 | [Largest product in a series](solutions-julia/008.jl) | n/a | 30ms |
-| #009 | [Special Pythagorean triplet](solutions-julia/009.jl) | n/a | < 0ms |
+| #009 | [Special Pythagorean triplet](solutions-julia/009.jl) | n/a | < 1ms |
 | #010 | [Summation of primes](solutions-julia/010.jl) | n/a | 1.3s |
 | #011 | [Largest product in a grid](solutions-julia/011.jl) | n/a | 56ms |
 | #012 | [Highly divisible triangular number](solutions-julia/012.jl) | n/a | 36s |
 | #013 | [Large sum](solutions-julia/013.jl) | n/a | 53ms |
 | #014 | [Longest Collatz sequence](solutions-julia/014.jl) | n/a | 4.4s |
 | #015 | [Lattice paths](solutions-julia/015.jl) | n/a | 0.1s |
-| #016 | [Power digit sum](solutions-julia/016.jl) | n/a | < 0ms |
-| #017 | [Number letter counts](solutions-julia/017.jl) | n/a | < 0ms |
+| #016 | [Power digit sum](solutions-julia/016.jl) | n/a | < 1ms |
+| #017 | [Number letter counts](solutions-julia/017.jl) | n/a | < 1ms |
 | #018 | [Maximum path sum I](solutions-julia/018.jl) | n/a | 0.2s |
 | #019 | [Counting Sundays](solutions-julia/019.jl) | n/a | 0.2s |
-| #020 | [Factorial digit sum](solutions-julia/020.jl) | n/a | < 0ms |
+| #020 | [Factorial digit sum](solutions-julia/020.jl) | n/a | < 1ms |
 | #021 | [Amicable numbers](solutions-julia/021.jl) | n/a | 64ms |
 | #022 | [Names scores](solutions-julia/022.jl) | n/a | 33ms |
 | #023 | [Non-abundant sums](solutions-julia/023.jl) | n/a | 0.3s |
@@ -50,12 +50,12 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #030 | [Digit fifth power](solutions-julia/030.jl) | n/a | 70ms |
 | #031 | [Coin sums](solutions-julia/031.jl) | n/a | 0.6s |
 | #032 | [Pandigital products](solutions-julia/032.jl) | n/a | 0.4s |
-| #033 | [Digit cancelling fractions](solutions-julia/033.jl) | n/a | < 0ms |
+| #033 | [Digit cancelling fractions](solutions-julia/033.jl) | n/a | < 1ms |
 | #034 | [Digit factorials](solutions-julia/034.jl) | n/a | 0.3s |
 | #035 | [Circular primes](solutions-julia/035.jl) | n/a | 0.4s |
 | #036 | [Double-base palindromes](solutions-julia/036.jl) | n/a | 0.1s |
 | #037 | [Truncatable primes](solutions-julia/037.jl) | n/a | 0.2s |
-| #038 | [Pandigital multiples](solutions-julia/038.jl) | n/a | < 0ms |
+| #038 | [Pandigital multiples](solutions-julia/038.jl) | n/a | < 1ms |
 | #039 | [Integer right triangles](solutions-julia/039.jl) | n/a | 0.3s |
 | #040 | [Champernowne's constant](solutions-julia/040.jl) | n/a | 21ms |
 | #041 | [Pandigital prime](solutions-julia/041.jl) | n/a | 0.4s |
@@ -63,4 +63,5 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #043 | [Sub-string divisibility](solutions-julia/043.jl) | n/a | 27s |
 | #044 | [Pentagon numbers](solutions-julia/044.jl) | n/a | 2.4s |
 | #045 | [Triangular, pentagonal, and hexagonal](solutions-julia/045.jl) | n/a | 11ms |
+| #046 | [Goldbach's other conjecture](solutions-julia/046.jl) | n/a | < 1ms |
 
