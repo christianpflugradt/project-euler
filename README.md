@@ -58,4 +58,5 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #038 | [Pandigital multiples](solutions-julia/038.jl) | n/a | < 0ms |
 | #039 | [Integer right triangles](solutions-julia/039.jl) | n/a | 0.3s |
 | #040 | [Champernowne's constant](solutions-julia/040.jl) | n/a | 21ms |
+| #041 | [Pandigital prime](solutions-julia/041.jl) | n/a | 0.4s |
 
