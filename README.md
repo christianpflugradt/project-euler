@@ -61,4 +61,5 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #041 | [Pandigital prime](solutions-julia/041.jl) | n/a | 0.4s |
 | #042 | [Coded triangle numbers](solutions-julia/042.jl) | n/a | 43ms |
 | #043 | [Sub-string divisibility](solutions-julia/043.jl) | n/a | 27s |
+| #044 | [Pentagon numbers](solutions-julia/044.jl) | n/a | 2.4s |
 
