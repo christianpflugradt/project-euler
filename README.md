@@ -70,4 +70,5 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #050 | [Consecutive prime sum](solutions-julia/050.jl) | n/a | 1.2s |
 | #051 | [Prime digit replacements](solutions-julia/051.jl) | n/a | 0.7s |
 | #052 | [Permuted multiples](solutions-julia/052.jl) | n/a | 0.2s |
+| #053 | [Combinatoric selections](solutions-julia/053.jl) | n/a | 8ms |
 
