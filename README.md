@@ -76,4 +76,5 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #056 | [Powerful digit sum](solutions-julia/056.jl) | n/a | 25ms |
 | #057 | [Square root convergents](solutions-julia/057.jl) | n/a | < 1ms |
 | #058 | [Spiral primes](solutions-julia/058.jl) | n/a | 3.8s |
+| #059 | [XOR decryption](solutions-julia/059.jl) | n/a | 3.9s |
 
