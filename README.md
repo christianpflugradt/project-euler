@@ -74,4 +74,5 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #054 | [Poker hands](solutions-julia/054.jl) | n/a | 0.4s |
 | #055 | [Lychrel numbers](solutions-julia/055.jl) | n/a | 5ms |
 | #056 | [Powerful digit sum](solutions-julia/056.jl) | n/a | 25ms |
+| #057 | [Square root convergents](solutions-julia/057.jl) | n/a | < 1ms |
 
