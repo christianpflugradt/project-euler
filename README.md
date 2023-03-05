@@ -75,4 +75,5 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #055 | [Lychrel numbers](solutions-julia/055.jl) | n/a | 5ms |
 | #056 | [Powerful digit sum](solutions-julia/056.jl) | n/a | 25ms |
 | #057 | [Square root convergents](solutions-julia/057.jl) | n/a | < 1ms |
+| #058 | [Spiral primes](solutions-julia/058.jl) | n/a | 3.8s |
 
