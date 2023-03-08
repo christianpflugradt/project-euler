@@ -20,8 +20,8 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | --- | --- | --- | --- |
 | #001 | [Multiples of 3 or 5](solutions-julia/001.jl) | [---](solutions-haskell/001.hs) | < 1ms |
 | #002 | [Even Fibonacci numbers](solutions-julia/002.jl) | [---](solutions-haskell/002.hs) | < 1ms |
-| #003 | [Largest prime factor](solutions-julia/003.jl) | [---](solutions-haskell/003.hs)| 0.2s |
-| #004 | [Largest palindrome product](solutions-julia/004.jl) | n/a | 0.1s |
+| #003 | [Largest prime factor](solutions-julia/003.jl) | [---](solutions-haskell/003.hs) | 0.2s |
+| #004 | [Largest palindrome product](solutions-julia/004.jl) | [---](solutions-haskell/004.hs) | 0.1s |
 | #005 | [Smallest multiple](solutions-julia/005.jl) | n/a | 2.5s |
 | #006 | [Sum square difference](solutions-julia/006.jl) | n/a | < 1ms |
 | #007 | [10001st prime](solutions-julia/007.jl) | n/a | 43ms |
