@@ -1,5 +1,5 @@
 sqrt' :: Int -> Float
-sqrt' n = sqrt( fromIntegral( n ) )
+sqrt' n = sqrt( fromIntegral n )
 
 isPrime :: Int -> Bool
 isPrime 2 = True
