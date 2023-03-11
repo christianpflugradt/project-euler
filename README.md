@@ -22,10 +22,10 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #002 | [Even Fibonacci numbers](solutions-julia/002.jl) | [---](solutions-haskell/002.hs) | < 1ms |
 | #003 | [Largest prime factor](solutions-julia/003.jl) | [---](solutions-haskell/003.hs) | 0.2s |
 | #004 | [Largest palindrome product](solutions-julia/004.jl) | [---](solutions-haskell/004.hs) | 0.1s |
-| #005 | [Smallest multiple](solutions-julia/005.jl) | n/a | 2.5s |
-| #006 | [Sum square difference](solutions-julia/006.jl) | n/a | < 1ms |
-| #007 | [10001st prime](solutions-julia/007.jl) | n/a | 43ms |
-| #008 | [Largest product in a series](solutions-julia/008.jl) | n/a | 30ms |
+| #005 | [Smallest multiple](solutions-julia/005.jl) | [---](solutions-haskell/005.hs) | 2.5s |
+| #006 | [Sum square difference](solutions-julia/006.jl) | [---](solutions-haskell/006.hs) | < 1ms |
+| #007 | [10001st prime](solutions-julia/007.jl) | [---](solutions-haskell/007.hs) | 43ms |
+| #008 | [Largest product in a series](solutions-julia/008.jl) | [---](solutions-haskell/008.hs) | 30ms |
 | #009 | [Special Pythagorean triplet](solutions-julia/009.jl) | n/a | < 1ms |
 | #010 | [Summation of primes](solutions-julia/010.jl) | n/a | 1.3s |
 | #011 | [Largest product in a grid](solutions-julia/011.jl) | n/a | 56ms |
