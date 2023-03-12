@@ -26,7 +26,7 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #006 | [Sum square difference](solutions-julia/006.jl) | < 1ms | [---](solutions-haskell/006.hs) |
 | #007 | [10001st prime](solutions-julia/007.jl) | 43ms | [---](solutions-haskell/007.hs) |
 | #008 | [Largest product in a series](solutions-julia/008.jl) | 30ms | [---](solutions-haskell/008.hs) |
-| #009 | [Special Pythagorean triplet](solutions-julia/009.jl) | < 1ms | n/a |
+| #009 | [Special Pythagorean triplet](solutions-julia/009.jl) | < 1ms | [---](solutions-haskell/009.hs) |
 | #010 | [Summation of primes](solutions-julia/010.jl) | 1.3s | n/a |
 | #011 | [Largest product in a grid](solutions-julia/011.jl) | 56ms | n/a |
 | #012 | [Highly divisible triangular number](solutions-julia/012.jl) | 36s | n/a |
