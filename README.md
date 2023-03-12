@@ -79,4 +79,5 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #059 | [XOR decryption](solutions-julia/059.jl) | 3.9s | n/a |
 | #060 | [Prime pair sets](solutions-julia/060.jl) | 57s or 1.3s | n/a |
 | #061 | [Cyclical figurate numbers](solutions-julia/061.jl) | 0.6s | n/a |
+| #062 | [Cubic permutations](solutions-julia/062.jl) | 1.5s | n/a |
 
