@@ -32,7 +32,7 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #012 | [Highly divisible triangular number](solutions-julia/012.jl) | 36s | [---](solutions-haskell/012.hs) |
 | #013 | [Large sum](solutions-julia/013.jl) | 53ms | [---](solutions-haskell/013.hs) |
 | #014 | [Longest Collatz sequence](solutions-julia/014.jl) | 4.4s | [---](solutions-haskell/014.hs) |
-| #015 | [Lattice paths](solutions-julia/015.jl) | 0.1s | n/a |
+| #015 | [Lattice paths](solutions-julia/015.jl) | 0.1s | [---](solutions-haskell/015.hs) |
 | #016 | [Power digit sum](solutions-julia/016.jl) | < 1ms | n/a |
 | #017 | [Number letter counts](solutions-julia/017.jl) | < 1ms | n/a |
 | #018 | [Maximum path sum I](solutions-julia/018.jl) | 0.2s | n/a |
