@@ -34,17 +34,17 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #014 | [Longest Collatz sequence](solutions-julia/014.jl) | 4.4s | [---](solutions-haskell/014.hs) |
 | #015 | [Lattice paths](solutions-julia/015.jl) | 0.1s | [---](solutions-haskell/015.hs) |
 | #016 | [Power digit sum](solutions-julia/016.jl) | < 1ms | [---](solutions-haskell/016.hs) |
-| #017 | [Number letter counts](solutions-julia/017.jl) | < 1ms | n/a |
+| #017 | [Number letter counts](solutions-julia/017.jl) | < 1ms | [---](solutions-haskell/017.hs) |
 | #018 | [Maximum path sum I](solutions-julia/018.jl) | 0.2s | n/a |
 | #019 | [Counting Sundays](solutions-julia/019.jl) | 0.2s | n/a |
-| #020 | [Factorial digit sum](solutions-julia/020.jl) | < 1ms | n/a |
-| #021 | [Amicable numbers](solutions-julia/021.jl) | 64ms | n/a |
+| #020 | [Factorial digit sum](solutions-julia/020.jl) | < 1ms | [---](solutions-haskell/020.hs) |
+| #021 | [Amicable numbers](solutions-julia/021.jl) | 64ms | [---](solutions-haskell/021.hs) |
 | #022 | [Names scores](solutions-julia/022.jl) | 33ms | n/a |
 | #023 | [Non-abundant sums](solutions-julia/023.jl) | 0.3s | n/a |
-| #024 | [Lexicographic permutations](solutions-julia/024.jl) | 24s | n/a |
-| #025 | [1000-digit Fibonacci number](solutions-julia/025.jl) | 37s | n/a |
+| #024 | [Lexicographic permutations](solutions-julia/024.jl) | 24s | [---](solutions-haskell/024.hs) |
+| #025 | [1000-digit Fibonacci number](solutions-julia/025.jl) | 37s | [---](solutions-haskell/025.hs) |
 | #026 | [Reciprocal cycles](solutions-julia/026.jl) | 0.6s | n/a |
-| #027 | [Quadratic primes](solutions-julia/027.jl) | 0.1s | n/a |
+| #027 | [Quadratic primes](solutions-julia/027.jl) | 0.1s | [---](solutions-haskell/027.hs) |
 | #028 | [Number spiral diagonals](solutions-julia/028.jl) | 7ms | n/a |
 | #029 | [Distinct powers](solutions-julia/029.jl) | 1ms | n/a |
 | #030 | [Digit fifth power](solutions-julia/030.jl) | 70ms | n/a |
