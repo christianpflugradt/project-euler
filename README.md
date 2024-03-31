@@ -14,7 +14,7 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 
 *However, the rule about sharing solutions outside of Project Euler does not apply to the first one-hundred problems, as long as any discussion clearly aims to instruct methods, not just provide answers, and does not directly threaten to undermine the enjoyment of solving later problems. Problems 1 to 100 provide a wealth of helpful introductory teaching material and if you are able to respect our requirements, then we give permission for those problems and their solutions to be discussed elsewhere.*
 
-## First 100 Problems
+## First 100 Problems (36 unsolved)
 
 | Problem | Imperative Solution                                             | Imperative Completion Time | Declarative Solution |
 |---------|-----------------------------------------------------------------|----------------------------| --- |
