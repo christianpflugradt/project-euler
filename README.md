@@ -90,7 +90,7 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #070    | [unsolved](solutions-julia/070.jl)                              | n/a                        | n/a |
 | #071    | [Ordered Fractions](solutions-julia/071.jl)                              | 240s                       | n/a |
 | #072    | [unsolved](solutions-julia/071.jl)                              | n/a                        | n/a |
-| #073    | [Counting Fractions in a Range](solutions-julia/073.jl)                              | 0.9s                       | n/a |
+| #073    | [Counting Fractions in a Range](solutions-julia/073.jl)                             | 0.9s                       | n/a |
 | #074    | [Digit Factorial Chains](solutions-julia/074.jl)                | 6.1s                       | n/a |
 | #075    | [unsolved](solutions-julia/075.jl)                              | n/a                        | n/a |
 | #076    | [unsolved](solutions-julia/076.jl)                              | n/a                        | n/a |
@@ -104,7 +104,7 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #084    | [unsolved](solutions-julia/084.jl)                              | n/a                        | n/a |
 | #085    | [unsolved](solutions-julia/085.jl)                              | n/a                        | n/a |
 | #086    | [unsolved](solutions-julia/086.jl)                              | n/a                        | n/a |
-| #087    | [unsolved](solutions-julia/087.jl)                              | n/a                        | n/a |
+| #087    | [Prime Power Triples](solutions-julia/087.jl)                              | 3.9s                      | n/a |
 | #088    | [unsolved](solutions-julia/088.jl)                              | n/a                        | n/a |
 | #089    | [unsolved](solutions-julia/089.jl)                              | n/a                        | n/a |
 | #090    | [unsolved](solutions-julia/090.jl)                              | n/a                        | n/a |
