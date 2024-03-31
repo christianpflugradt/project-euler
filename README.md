@@ -81,5 +81,41 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #061    | [Cyclical figurate numbers](solutions-julia/061.jl)             | 0.6s                       | n/a |
 | #062    | [Cubic permutations](solutions-julia/062.jl)                    | 1.5s                       | n/a |
 | #063    | [Powerful digit counts](solutions-julia/063.jl)                 | < 1ms                      | n/a |
+| #064    | [unsolved](solutions-julia/064.jl)                              | n/a                    | n/a |
+| #065    | [unsolved](solutions-julia/065.jl)                              | n/a                    | n/a |
+| #066    | [unsolved](solutions-julia/066.jl)                              | n/a                    | n/a |
+| #067    | [unsolved](solutions-julia/067.jl)                              | n/a                    | n/a |
 | #068    | [Magic 5-gon Ring](solutions-julia/068.jl)                      | 5.9s                       | n/a |
+| #069    | [unsolved](solutions-julia/069.jl)                              | n/a                    | n/a |
+| #070    | [unsolved](solutions-julia/070.jl)                              | n/a                    | n/a |
+| #071    | [unsolved](solutions-julia/071.jl)                              | n/a                    | n/a |
+| #072    | [unsolved](solutions-julia/071.jl)                              | n/a                    | n/a |
+| #073    | [unsolved](solutions-julia/073.jl)                              | n/a                    | n/a |
+| #074    | [unsolved](solutions-julia/074.jl)                              | n/a                    | n/a |
+| #075    | [unsolved](solutions-julia/075.jl)                              | n/a                    | n/a |
+| #076    | [unsolved](solutions-julia/076.jl)                              | n/a                    | n/a |
+| #077    | [unsolved](solutions-julia/077.jl)                              | n/a                    | n/a |
+| #078    | [unsolved](solutions-julia/078.jl)                              | n/a                    | n/a |
+| #079    | [unsolved](solutions-julia/079.jl)                              | n/a                    | n/a |
+| #080    | [unsolved](solutions-julia/080.jl)                              | n/a                    | n/a |
+| #081    | [unsolved](solutions-julia/081.jl)                              | n/a                    | n/a |
+| #082    | [unsolved](solutions-julia/082.jl)                              | n/a                    | n/a |
+| #083    | [unsolved](solutions-julia/083.jl)                              | n/a                    | n/a |
+| #084    | [unsolved](solutions-julia/084.jl)                              | n/a                    | n/a |
+| #085    | [unsolved](solutions-julia/085.jl)                              | n/a                    | n/a |
+| #086    | [unsolved](solutions-julia/086.jl)                              | n/a                    | n/a |
+| #087    | [unsolved](solutions-julia/087.jl)                              | n/a                    | n/a |
+| #088    | [unsolved](solutions-julia/088.jl)                              | n/a                    | n/a |
+| #089    | [unsolved](solutions-julia/089.jl)                              | n/a                    | n/a |
+| #090    | [unsolved](solutions-julia/090.jl)                              | n/a                    | n/a |
+| #091    | [unsolved](solutions-julia/091.jl)                              | n/a                    | n/a |
+| #092    | [unsolved](solutions-julia/092.jl)                              | n/a                    | n/a |
+| #093    | [unsolved](solutions-julia/093.jl)                              | n/a                    | n/a |
+| #094    | [unsolved](solutions-julia/094.jl)                              | n/a                    | n/a |
+| #095    | [unsolved](solutions-julia/095.jl)                              | n/a                    | n/a |
+| #096    | [unsolved](solutions-julia/096.jl)                              | n/a                    | n/a |
+| #097    | [unsolved](solutions-julia/097.jl)                              | n/a                    | n/a |
+| #098    | [unsolved](solutions-julia/098.jl)                              | n/a                    | n/a |
+| #099    | [unsolved](solutions-julia/099.jl)                              | n/a                    | n/a |
+| #100    | [unsolved](solutions-julia/100.jl)                              | n/a                    | n/a |
 
