@@ -14,7 +14,7 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 
 *However, the rule about sharing solutions outside of Project Euler does not apply to the first one-hundred problems, as long as any discussion clearly aims to instruct methods, not just provide answers, and does not directly threaten to undermine the enjoyment of solving later problems. Problems 1 to 100 provide a wealth of helpful introductory teaching material and if you are able to respect our requirements, then we give permission for those problems and their solutions to be discussed elsewhere.*
 
-## First 100 Problems (35 unsolved)
+## First 100 Problems (34 unsolved)
 
 | Problem | Imperative Solution                                             | Imperative Completion Time | Declarative Solution |
 |---------|-----------------------------------------------------------------|----------------------------| --- |
@@ -90,7 +90,7 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #070    | [unsolved](solutions-julia/070.jl)                              | n/a                        | n/a |
 | #071    | [Ordered Fractions](solutions-julia/071.jl)                              | 240s                       | n/a |
 | #072    | [unsolved](solutions-julia/071.jl)                              | n/a                        | n/a |
-| #073    | [unsolved](solutions-julia/073.jl)                              | n/a                        | n/a |
+| #073    | [Counting Fractions in a Range](solutions-julia/073.jl)                              | 0.9s                       | n/a |
 | #074    | [unsolved](solutions-julia/074.jl)                              | n/a                        | n/a |
 | #075    | [unsolved](solutions-julia/075.jl)                              | n/a                        | n/a |
 | #076    | [unsolved](solutions-julia/076.jl)                              | n/a                        | n/a |
