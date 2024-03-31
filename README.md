@@ -91,7 +91,7 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #071    | [Ordered Fractions](solutions-julia/071.jl)                              | 240s                       | n/a |
 | #072    | [unsolved](solutions-julia/071.jl)                              | n/a                        | n/a |
 | #073    | [Counting Fractions in a Range](solutions-julia/073.jl)                              | 0.9s                       | n/a |
-| #074    | [unsolved](solutions-julia/074.jl)                              | n/a                        | n/a |
+| #074    | [Digit Factorial Chains](solutions-julia/074.jl)                | 6.1s                       | n/a |
 | #075    | [unsolved](solutions-julia/075.jl)                              | n/a                        | n/a |
 | #076    | [unsolved](solutions-julia/076.jl)                              | n/a                        | n/a |
 | #077    | [unsolved](solutions-julia/077.jl)                              | n/a                        | n/a |
