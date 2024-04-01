@@ -14,7 +14,7 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 
 *However, the rule about sharing solutions outside of Project Euler does not apply to the first one-hundred problems, as long as any discussion clearly aims to instruct methods, not just provide answers, and does not directly threaten to undermine the enjoyment of solving later problems. Problems 1 to 100 provide a wealth of helpful introductory teaching material and if you are able to respect our requirements, then we give permission for those problems and their solutions to be discussed elsewhere.*
 
-## First 100 Problems (30 unsolved)
+## First 100 Problems (29 unsolved)
 
 | Problem | Imperative Solution                                             | Imperative Completion Time | Declarative Solution |
 |---------|-----------------------------------------------------------------|----------------------------| --- |
@@ -88,11 +88,11 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #068    | [Magic 5-gon Ring](solutions-julia/068.jl)                      | 5.9s                       | n/a |
 | #069    | [unsolved](solutions-julia/069.jl)                              | n/a                        | n/a |
 | #070    | [unsolved](solutions-julia/070.jl)                              | n/a                        | n/a |
-| #071    | [Ordered Fractions](solutions-julia/071.jl)                              | 240s                       | n/a |
+| #071    | [Ordered Fractions](solutions-julia/071.jl)                     | 240s                       | n/a |
 | #072    | [unsolved](solutions-julia/071.jl)                              | n/a                        | n/a |
-| #073    | [Counting Fractions in a Range](solutions-julia/073.jl)                             | 0.9s                       | n/a |
+| #073    | [Counting Fractions in a Range](solutions-julia/073.jl)         | 0.9s                       | n/a |
 | #074    | [Digit Factorial Chains](solutions-julia/074.jl)                | 6.1s                       | n/a |
-| #075    | [unsolved](solutions-julia/075.jl)                              | n/a                        | n/a |
+| #075    | [Singular Integer Right Triangles](solutions-julia/075.jl)      | > 30 min                   | n/a |
 | #076    | [unsolved](solutions-julia/076.jl)                              | n/a                        | n/a |
 | #077    | [unsolved](solutions-julia/077.jl)                              | n/a                        | n/a |
 | #078    | [unsolved](solutions-julia/078.jl)                              | n/a                        | n/a |
@@ -104,17 +104,17 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #084    | [unsolved](solutions-julia/084.jl)                              | n/a                        | n/a |
 | #085    | [unsolved](solutions-julia/085.jl)                              | n/a                        | n/a |
 | #086    | [unsolved](solutions-julia/086.jl)                              | n/a                        | n/a |
-| #087    | [Prime Power Triples](solutions-julia/087.jl)                              | 3.9s                       | n/a |
+| #087    | [Prime Power Triples](solutions-julia/087.jl)                   | 3.9s                       | n/a |
 | #088    | [unsolved](solutions-julia/088.jl)                              | n/a                        | n/a |
 | #089    | [unsolved](solutions-julia/089.jl)                              | n/a                        | n/a |
 | #090    | [unsolved](solutions-julia/090.jl)                              | n/a                        | n/a |
 | #091    | [unsolved](solutions-julia/091.jl)                              | n/a                        | n/a |
-| #092    | [Square Digit Chains](solutions-julia/092.jl)                              | 9.1s                       | n/a |
+| #092    | [Square Digit Chains](solutions-julia/092.jl)                   | 9.1s                       | n/a |
 | #093    | [unsolved](solutions-julia/093.jl)                              | n/a                        | n/a |
 | #094    | [unsolved](solutions-julia/094.jl)                              | n/a                        | n/a |
 | #095    | [unsolved](solutions-julia/095.jl)                              | n/a                        | n/a |
 | #096    | [unsolved](solutions-julia/096.jl)                              | n/a                        | n/a |
 | #097    | [unsolved](solutions-julia/097.jl)                              | n/a                        | n/a |
 | #098    | [unsolved](solutions-julia/098.jl)                              | n/a                        | n/a |
-| #099    | [Largest Exponential](solutions-julia/099.jl)                              | 29s                     | n/a |
+| #099    | [Largest Exponential](solutions-julia/099.jl)                   | 29s                        | n/a |
 | #100    | [unsolved](solutions-julia/100.jl)                              | n/a                        | n/a |
