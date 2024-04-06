@@ -14,85 +14,85 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 
 *However, the rule about sharing solutions outside of Project Euler does not apply to the first one-hundred problems, as long as any discussion clearly aims to instruct methods, not just provide answers, and does not directly threaten to undermine the enjoyment of solving later problems. Problems 1 to 100 provide a wealth of helpful introductory teaching material and if you are able to respect our requirements, then we give permission for those problems and their solutions to be discussed elsewhere.*
 
-## First 100 Problems (29 unsolved)
+## First 100 Problems (28 unsolved)
 
 | Problem | Imperative Solution                                             | Imperative Completion Time | Declarative Solution |
 |---------|-----------------------------------------------------------------|----------------------------| --- |
-| #001    | [Multiples of 3 or 5](solutions-julia/001.jl)                   | < 1ms                      | [---](solutions-haskell/001.hs) | 
-| #002    | [Even Fibonacci numbers](solutions-julia/002.jl)                | < 1ms                      | [---](solutions-haskell/002.hs) |
-| #003    | [Largest prime factor](solutions-julia/003.jl)                  | 0.2s                       | [---](solutions-haskell/003.hs) |
-| #004    | [Largest palindrome product](solutions-julia/004.jl)            | 0.1s                       | [---](solutions-haskell/004.hs) |
-| #005    | [Smallest multiple](solutions-julia/005.jl)                     | 2.5s                       | [---](solutions-haskell/005.hs) |
-| #006    | [Sum square difference](solutions-julia/006.jl)                 | < 1ms                      | [---](solutions-haskell/006.hs) |
-| #007    | [10001st prime](solutions-julia/007.jl)                         | 43ms                       | [---](solutions-haskell/007.hs) |
-| #008    | [Largest product in a series](solutions-julia/008.jl)           | 30ms                       | [---](solutions-haskell/008.hs) |
-| #009    | [Special Pythagorean triplet](solutions-julia/009.jl)           | < 1ms                      | [---](solutions-haskell/009.hs) |
-| #010    | [Summation of primes](solutions-julia/010.jl)                   | 1.3s                       | [---](solutions-haskell/010.hs) |
-| #011    | [Largest product in a grid](solutions-julia/011.jl)             | 56ms                       | n/a |
-| #012    | [Highly divisible triangular number](solutions-julia/012.jl)    | 36s                        | [---](solutions-haskell/012.hs) |
-| #013    | [Large sum](solutions-julia/013.jl)                             | 53ms                       | [---](solutions-haskell/013.hs) |
-| #014    | [Longest Collatz sequence](solutions-julia/014.jl)              | 4.4s                       | [---](solutions-haskell/014.hs) |
-| #015    | [Lattice paths](solutions-julia/015.jl)                         | 0.1s                       | [---](solutions-haskell/015.hs) |
-| #016    | [Power digit sum](solutions-julia/016.jl)                       | < 1ms                      | [---](solutions-haskell/016.hs) |
-| #017    | [Number letter counts](solutions-julia/017.jl)                  | < 1ms                      | [---](solutions-haskell/017.hs) |
-| #018    | [Maximum path sum I](solutions-julia/018.jl)                    | 0.2s                       | n/a |
-| #019    | [Counting Sundays](solutions-julia/019.jl)                      | 0.2s                       | n/a |
-| #020    | [Factorial digit sum](solutions-julia/020.jl)                   | < 1ms                      | [---](solutions-haskell/020.hs) |
-| #021    | [Amicable numbers](solutions-julia/021.jl)                      | 64ms                       | [---](solutions-haskell/021.hs) |
-| #022    | [Names scores](solutions-julia/022.jl)                          | 33ms                       | n/a |
-| #023    | [Non-abundant sums](solutions-julia/023.jl)                     | 0.3s                       | n/a |
-| #024    | [Lexicographic permutations](solutions-julia/024.jl)            | 24s                        | [---](solutions-haskell/024.hs) |
-| #025    | [1000-digit Fibonacci number](solutions-julia/025.jl)           | 37s                        | [---](solutions-haskell/025.hs) |
-| #026    | [Reciprocal cycles](solutions-julia/026.jl)                     | 0.6s                       | n/a |
-| #027    | [Quadratic primes](solutions-julia/027.jl)                      | 0.1s                       | [---](solutions-haskell/027.hs) |
-| #028    | [Number spiral diagonals](solutions-julia/028.jl)               | 7ms                        | n/a |
-| #029    | [Distinct powers](solutions-julia/029.jl)                       | 1ms                        | n/a |
-| #030    | [Digit fifth power](solutions-julia/030.jl)                     | 70ms                       | n/a |
-| #031    | [Coin sums](solutions-julia/031.jl)                             | 0.6s                       | n/a |
-| #032    | [Pandigital products](solutions-julia/032.jl)                   | 0.4s                       | n/a |
-| #033    | [Digit cancelling fractions](solutions-julia/033.jl)            | < 1ms                      | n/a |
-| #034    | [Digit factorials](solutions-julia/034.jl)                      | 0.3s                       | n/a |
-| #035    | [Circular primes](solutions-julia/035.jl)                       | 0.4s                       | n/a |
-| #036    | [Double-base palindromes](solutions-julia/036.jl)               | 0.1s                       | n/a |
-| #037    | [Truncatable primes](solutions-julia/037.jl)                    | 0.2s                       | n/a |
-| #038    | [Pandigital multiples](solutions-julia/038.jl)                  | < 1ms                      | n/a |
-| #039    | [Integer right triangles](solutions-julia/039.jl)               | 0.3s                       | n/a |
-| #040    | [Champernowne's constant](solutions-julia/040.jl)               | 21ms                       | n/a |
-| #041    | [Pandigital prime](solutions-julia/041.jl)                      | 0.4s                       | n/a |
-| #042    | [Coded triangle numbers](solutions-julia/042.jl)                | 43ms                       | n/a |
-| #043    | [Sub-string divisibility](solutions-julia/043.jl)               | 27s                        | n/a |
-| #044    | [Pentagon numbers](solutions-julia/044.jl)                      | 2.4s                       | n/a |
-| #045    | [Triangular, pentagonal, and hexagonal](solutions-julia/045.jl) | 11ms                       | n/a |
-| #046    | [Goldbach's other conjecture](solutions-julia/046.jl)           | < 1ms                      | n/a |
-| #047    | [Distinct primes factors](solutions-julia/047.jl)               | 72s                        | n/a |
-| #048    | [Self powers](solutions-julia/048.jl)                           | < 1ms                      | n/a |
-| #049    | [Prime permutations](solutions-julia/049.jl)                    | 0.5s                       | n/a |
-| #050    | [Consecutive prime sum](solutions-julia/050.jl)                 | 1.2s                       | n/a |
-| #051    | [Prime digit replacements](solutions-julia/051.jl)              | 0.7s                       | n/a |
-| #052    | [Permuted multiples](solutions-julia/052.jl)                    | 0.2s                       | n/a |
-| #053    | [Combinatoric selections](solutions-julia/053.jl)               | 8ms                        | n/a |
-| #054    | [Poker hands](solutions-julia/054.jl)                           | 0.4s                       | n/a |
-| #055    | [Lychrel numbers](solutions-julia/055.jl)                       | 5ms                        | n/a |
-| #056    | [Powerful digit sum](solutions-julia/056.jl)                    | 25ms                       | n/a |
-| #057    | [Square root convergents](solutions-julia/057.jl)               | < 1ms                      | n/a |
-| #058    | [Spiral primes](solutions-julia/058.jl)                         | 3.8s                       | n/a |
-| #059    | [XOR decryption](solutions-julia/059.jl)                        | 3.9s                       | n/a |
-| #060    | [Prime pair sets](solutions-julia/060.jl)                       | 57s or 1.3s                | n/a |
-| #061    | [Cyclical figurate numbers](solutions-julia/061.jl)             | 0.6s                       | n/a |
-| #062    | [Cubic permutations](solutions-julia/062.jl)                    | 1.5s                       | n/a |
-| #063    | [Powerful digit counts](solutions-julia/063.jl)                 | < 1ms                      | n/a |
+| #001    | [Multiples of 3 or 5](solutions-julia/001.jl)                   | < 1 ms                     | [---](solutions-haskell/001.hs) | 
+| #002    | [Even Fibonacci numbers](solutions-julia/002.jl)                | < 1 ms                     | [---](solutions-haskell/002.hs) |
+| #003    | [Largest prime factor](solutions-julia/003.jl)                  | 0.2 s                      | [---](solutions-haskell/003.hs) |
+| #004    | [Largest palindrome product](solutions-julia/004.jl)            | 0.1 s                      | [---](solutions-haskell/004.hs) |
+| #005    | [Smallest multiple](solutions-julia/005.jl)                     | 2.5 s                      | [---](solutions-haskell/005.hs) |
+| #006    | [Sum square difference](solutions-julia/006.jl)                 | < 1 ms                     | [---](solutions-haskell/006.hs) |
+| #007    | [10001st prime](solutions-julia/007.jl)                         | 43 ms                      | [---](solutions-haskell/007.hs) |
+| #008    | [Largest product in a series](solutions-julia/008.jl)           | 30 ms                      | [---](solutions-haskell/008.hs) |
+| #009    | [Special Pythagorean triplet](solutions-julia/009.jl)           | < 1 ms                     | [---](solutions-haskell/009.hs) |
+| #010    | [Summation of primes](solutions-julia/010.jl)                   | 1.3 s                      | [---](solutions-haskell/010.hs) |
+| #011    | [Largest product in a grid](solutions-julia/011.jl)             | 56 ms                      | n/a |
+| #012    | [Highly divisible triangular number](solutions-julia/012.jl)    | 36 s                       | [---](solutions-haskell/012.hs) |
+| #013    | [Large sum](solutions-julia/013.jl)                             | 53 ms                      | [---](solutions-haskell/013.hs) |
+| #014    | [Longest Collatz sequence](solutions-julia/014.jl)              | 4.4 s                      | [---](solutions-haskell/014.hs) |
+| #015    | [Lattice paths](solutions-julia/015.jl)                         | 0.1 s                      | [---](solutions-haskell/015.hs) |
+| #016    | [Power digit sum](solutions-julia/016.jl)                       | < 1 ms                     | [---](solutions-haskell/016.hs) |
+| #017    | [Number letter counts](solutions-julia/017.jl)                  | < 1 ms                     | [---](solutions-haskell/017.hs) |
+| #018    | [Maximum path sum I](solutions-julia/018.jl)                    | 0.2 s                      | n/a |
+| #019    | [Counting Sundays](solutions-julia/019.jl)                      | 0.2 s                      | n/a |
+| #020    | [Factorial digit sum](solutions-julia/020.jl)                   | < 1 ms                     | [---](solutions-haskell/020.hs) |
+| #021    | [Amicable numbers](solutions-julia/021.jl)                      | 64 ms                      | [---](solutions-haskell/021.hs) |
+| #022    | [Names scores](solutions-julia/022.jl)                          | 33 ms                      | n/a |
+| #023    | [Non-abundant sums](solutions-julia/023.jl)                     | 0.3 s                      | n/a |
+| #024    | [Lexicographic permutations](solutions-julia/024.jl)            | 24 s                       | [---](solutions-haskell/024.hs) |
+| #025    | [1000-digit Fibonacci number](solutions-julia/025.jl)           | 37 s                       | [---](solutions-haskell/025.hs) |
+| #026    | [Reciprocal cycles](solutions-julia/026.jl)                     | 0.6 s                      | n/a |
+| #027    | [Quadratic primes](solutions-julia/027.jl)                      | 0.1 s                      | [---](solutions-haskell/027.hs) |
+| #028    | [Number spiral diagonals](solutions-julia/028.jl)               | 7 ms                       | n/a |
+| #029    | [Distinct powers](solutions-julia/029.jl)                       | 1 ms                       | n/a |
+| #030    | [Digit fifth power](solutions-julia/030.jl)                     | 70 ms                      | n/a |
+| #031    | [Coin sums](solutions-julia/031.jl)                             | 0.6 s                      | n/a |
+| #032    | [Pandigital products](solutions-julia/032.jl)                   | 0.4 s                      | n/a |
+| #033    | [Digit cancelling fractions](solutions-julia/033.jl)            | < 1 ms                     | n/a |
+| #034    | [Digit factorials](solutions-julia/034.jl)                      | 0.3 s                      | n/a |
+| #035    | [Circular primes](solutions-julia/035.jl)                       | 0.4 s                      | n/a |
+| #036    | [Double-base palindromes](solutions-julia/036.jl)               | 0.1 s                      | n/a |
+| #037    | [Truncatable primes](solutions-julia/037.jl)                    | 0.2 s                      | n/a |
+| #038    | [Pandigital multiples](solutions-julia/038.jl)                  | < 1 ms                     | n/a |
+| #039    | [Integer right triangles](solutions-julia/039.jl)               | 0.3 s                      | n/a |
+| #040    | [Champernowne's constant](solutions-julia/040.jl)               | 21 ms                      | n/a |
+| #041    | [Pandigital prime](solutions-julia/041.jl)                      | 0.4 s                      | n/a |
+| #042    | [Coded triangle numbers](solutions-julia/042.jl)                | 43 ms                      | n/a |
+| #043    | [Sub-string divisibility](solutions-julia/043.jl)               | 27 s                       | n/a |
+| #044    | [Pentagon numbers](solutions-julia/044.jl)                      | 2.4 s                      | n/a |
+| #045    | [Triangular, pentagonal, and hexagonal](solutions-julia/045.jl) | 11 ms                      | n/a |
+| #046    | [Goldbach's other conjecture](solutions-julia/046.jl)           | < 1 ms                     | n/a |
+| #047    | [Distinct primes factors](solutions-julia/047.jl)               | 72 s                       | n/a |
+| #048    | [Self powers](solutions-julia/048.jl)                           | < 1 ms                     | n/a |
+| #049    | [Prime permutations](solutions-julia/049.jl)                    | 0.5 s                      | n/a |
+| #050    | [Consecutive prime sum](solutions-julia/050.jl)                 | 1.2 s                      | n/a |
+| #051    | [Prime digit replacements](solutions-julia/051.jl)              | 0.7 s                      | n/a |
+| #052    | [Permuted multiples](solutions-julia/052.jl)                    | 0.2 s                      | n/a |
+| #053    | [Combinatoric selections](solutions-julia/053.jl)               | 8 ms                       | n/a |
+| #054    | [Poker hands](solutions-julia/054.jl)                           | 0.4 s                      | n/a |
+| #055    | [Lychrel numbers](solutions-julia/055.jl)                       | 5 ms                       | n/a |
+| #056    | [Powerful digit sum](solutions-julia/056.jl)                    | 25 ms                      | n/a |
+| #057    | [Square root convergents](solutions-julia/057.jl)               | < 1 ms                     | n/a |
+| #058    | [Spiral primes](solutions-julia/058.jl)                         | 3.8 s                      | n/a |
+| #059    | [XOR decryption](solutions-julia/059.jl)                        | 3.9 s                      | n/a |
+| #060    | [Prime pair sets](solutions-julia/060.jl)                       | 57 s or 1.3 s              | n/a |
+| #061    | [Cyclical figurate numbers](solutions-julia/061.jl)             | 0.6 s                      | n/a |
+| #062    | [Cubic permutations](solutions-julia/062.jl)                    | 1.5 s                      | n/a |
+| #063    | [Powerful digit counts](solutions-julia/063.jl)                 | < 1 ms                     | n/a |
 | #064    | [unsolved](solutions-julia/064.jl)                              | n/a                        | n/a |
 | #065    | [unsolved](solutions-julia/065.jl)                              | n/a                        | n/a |
 | #066    | [unsolved](solutions-julia/066.jl)                              | n/a                        | n/a |
 | #067    | [unsolved](solutions-julia/067.jl)                              | n/a                        | n/a |
-| #068    | [Magic 5-gon Ring](solutions-julia/068.jl)                      | 5.9s                       | n/a |
+| #068    | [Magic 5-gon Ring](solutions-julia/068.jl)                      | 5.9 s                      | n/a |
 | #069    | [unsolved](solutions-julia/069.jl)                              | n/a                        | n/a |
 | #070    | [unsolved](solutions-julia/070.jl)                              | n/a                        | n/a |
-| #071    | [Ordered Fractions](solutions-julia/071.jl)                     | 240s                       | n/a |
-| #072    | [unsolved](solutions-julia/071.jl)                              | n/a                        | n/a |
-| #073    | [Counting Fractions in a Range](solutions-julia/073.jl)         | 0.9s                       | n/a |
-| #074    | [Digit Factorial Chains](solutions-julia/074.jl)                | 6.1s                       | n/a |
-| #075    | [Singular Integer Right Triangles](solutions-julia/075.jl)      | > 30 min                   | n/a |
+| #071    | [Ordered Fractions](solutions-julia/071.jl)                     | 4 m                        | n/a |
+| #072    | [Counting Fractions](solutions-julia/071.jl)                    | > 20 h                     | n/a |
+| #073    | [Counting Fractions in a Range](solutions-julia/073.jl)         | 0.9 s                      | n/a |
+| #074    | [Digit Factorial Chains](solutions-julia/074.jl)                | 6.1 s                      | n/a |
+| #075    | [Singular Integer Right Triangles](solutions-julia/075.jl)      | > 30 m                     | n/a |
 | #076    | [unsolved](solutions-julia/076.jl)                              | n/a                        | n/a |
 | #077    | [unsolved](solutions-julia/077.jl)                              | n/a                        | n/a |
 | #078    | [unsolved](solutions-julia/078.jl)                              | n/a                        | n/a |
@@ -104,17 +104,17 @@ The following statement is taken from the project euler FAQ, 5th of January 2023
 | #084    | [unsolved](solutions-julia/084.jl)                              | n/a                        | n/a |
 | #085    | [unsolved](solutions-julia/085.jl)                              | n/a                        | n/a |
 | #086    | [unsolved](solutions-julia/086.jl)                              | n/a                        | n/a |
-| #087    | [Prime Power Triples](solutions-julia/087.jl)                   | 3.9s                       | n/a |
+| #087    | [Prime Power Triples](solutions-julia/087.jl)                   | 3.9 s                      | n/a |
 | #088    | [unsolved](solutions-julia/088.jl)                              | n/a                        | n/a |
 | #089    | [unsolved](solutions-julia/089.jl)                              | n/a                        | n/a |
 | #090    | [unsolved](solutions-julia/090.jl)                              | n/a                        | n/a |
 | #091    | [unsolved](solutions-julia/091.jl)                              | n/a                        | n/a |
-| #092    | [Square Digit Chains](solutions-julia/092.jl)                   | 9.1s                       | n/a |
+| #092    | [Square Digit Chains](solutions-julia/092.jl)                   | 9.1 s                      | n/a |
 | #093    | [unsolved](solutions-julia/093.jl)                              | n/a                        | n/a |
 | #094    | [unsolved](solutions-julia/094.jl)                              | n/a                        | n/a |
 | #095    | [unsolved](solutions-julia/095.jl)                              | n/a                        | n/a |
 | #096    | [unsolved](solutions-julia/096.jl)                              | n/a                        | n/a |
 | #097    | [unsolved](solutions-julia/097.jl)                              | n/a                        | n/a |
 | #098    | [unsolved](solutions-julia/098.jl)                              | n/a                        | n/a |
-| #099    | [Largest Exponential](solutions-julia/099.jl)                   | 29s                        | n/a |
+| #099    | [Largest Exponential](solutions-julia/099.jl)                   | 29 s                       | n/a |
 | #100    | [unsolved](solutions-julia/100.jl)                              | n/a                        | n/a |
