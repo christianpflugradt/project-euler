@@ -1,5 +1,12 @@
 # project euler (first 100 problems)
 
+> [!NOTE]
+> **This project is archived.** Since early 2026 I hardly write any code by hand anymore, because
+> working with AI agents makes me far more productive. That takes away the point of solving puzzles by
+> hand for its own sake, and with it my motivation for this repository, so it stays unfinished. The
+> solutions remain available for reference. If this changes, I might unarchive it. Please don't
+> confuse it with my active projects.
+
 These are my solutions for the first 100 problems of [project euler](https://projecteuler.net) using [Julia](https://julialang.org/) and [Haskell](https://www.haskell.org/).
 
 Please note that project euler states it is okay to share solutions for the first 100 problems, but it's not okay to share solutions for the later problems posted there.
